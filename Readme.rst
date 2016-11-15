@@ -15,7 +15,7 @@ Project Members
 + Chris Broussard (`GitHub <https://github.com/disneyprincesschristo>`_)
 + Dylan Buras (`GitHub <https://github.com/420kushrolla>`_)
 + Spencer Chance (`GitHub <https://github.com/schance>`_)
-+ Stephen Doiron (`GitHub <https://github.com/sdoiro2>`_)
++ Stephen Doiron (`GitHub <https://github.com/cowhiz25>`_)
 + Alan Fos (`GitHub <https://github.com/afos2>`_)
 + Alex Hebert (`GitHub <https://github.com/ajhlsu>`_)
 + Everett Moser (`GitHub <https://github.com/evenam>`_)
