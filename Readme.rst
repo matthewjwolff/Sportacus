@@ -20,5 +20,5 @@ Project Members
 + Alex Hebert (`GitHub <https://github.com/ajhlsu>`_)
 + Everett Moser (`GitHub <https://github.com/evenam>`_)
 + Kaleb Shelton (`GitHub <https://github.com/k-shelt>`_)
-+ Garrett Siener (`GitHub <https://github.com/garrettsiener>`_)
++ Garrett Siener (`GitHub <https://github.com/garrettsiener>`_)"GarretsWiener"
 + Matthew Wolff (`GitHub <https://github.com/matthewjwolff>`_)
