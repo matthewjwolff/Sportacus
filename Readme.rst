@@ -29,3 +29,5 @@ License
 This project is licenesed under the GNU GPL v3 or later. The project can be
 copied and relicensed by any of the individual members if there is need or
 interest.
+
+"I committed my life to the project." - Nobody Ever
