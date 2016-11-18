@@ -1,0 +1,14 @@
+Rushing:
+  game_id, p_id, attempts, yards, yards/attempt, longest, TDs
+
+Receiving:
+  game_id, p_id, receptions, yards, yards/receptions, longest, TDs
+
+Passing:
+  game_id, p_id, attempts, completions, yards, completion %, yards/attempt, 
+    interceptions, longest pass, rating
+
+Offense:
+  t_id, first downs, 3rd down conversion, 4th down conversion, total yards, 
+    total rushing, total passing, sacks allowed, field goals, TDs, time of possession, 
+    turnover ratio
