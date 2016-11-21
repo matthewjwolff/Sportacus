@@ -1,8 +1,8 @@
 Defense
-t_id, game_id, sacks, interceptions(result in td), fumbles forced(result in td), touchdowns, safeties, yards allowed, time on field, touchdowns allowed, rating, kicks blocked(?), average # yards from penalties(?) per game, average # penalties per game(?)
+t_id, game_id, sacks, interceptions, pick 6s, fumbles forced, fumbles into touchdowns, safeties, yards allowed, time on field, touchdowns allowed
 
 Kicking
-game_id, p_id, longest punt, longest field goal, average punt, # of touchbacks, field goal %, PAT %, onside kick %
+game_id, p_id, total yards off punt, number of punts, longest punt, longest field goal, # of touchbacks, FG attempted, FG made, PAT attemtped, PAT made
 
 Returning
-game_id, p_id, longest return, average return, touchdowns, return vs touchback ratio
+game_id, t_id, number of returns, total return yards, longest return, touchdowns
