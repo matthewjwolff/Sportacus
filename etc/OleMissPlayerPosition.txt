@@ -1,0 +1,14 @@
+Name	Number	Position	Class
+Chad Kelly	10	QB	SR
+Shea Patterson	20	QB	FR
+Akeem Judd	21	RB	SR
+Eugene Brazley	23	RB	JR
+Evan engram	17	TE	SR
+Damore'ea Stringfellow	3	WR	JR
+Van Jefferson	12	WR	FR
+Quincy adeboyejo	8	WR	SR
+AJ Brown	1	WR	FR
+Gary Wunderlich	97	PK	JR
+Will Gleason	94	P	JR
+Zedrick Woods	36	DB	SO
+Carlos Davis	23	DB	SR
