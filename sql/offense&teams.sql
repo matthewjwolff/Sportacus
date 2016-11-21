@@ -49,7 +49,7 @@ create table receiving (
 	yards int,
 	longest_reception int,
 	TDs int,
-	Primary Key(p_id),
+	Primary Key(rec_id),
 	Foreign Key(g_id) references Games(g_id),
 	Foreign Key(p_id) references Players(p_id)
 );
