@@ -1,0 +1,19 @@
+QB:
+  Jalen Hurts, 2, Freshman
+  Cooper Bateman, 18, Junior
+  
+RB:
+  Damien Harris, 34, Sophomore
+  Joshua Jacobs, 25, Freshman
+  
+WR:
+  ArDarius Stewart, 13, Junior
+  Calvin Ridley, 3, Sophomore
+  Robert Foster, 1, Junior
+  Gehrig Dieter, 11, Senior
+  Trevon Diggs, 7, Freshman
+  
+K/PK:
+  Adam Griffith, 99, Senior
+  Andy Pappanastos, 92, Junior
+  
