@@ -74,7 +74,9 @@ create table Games (
 	t1_score int,
 	t2_score int,
 	Date Date(),
-	Primary Key(g_id)
+	Primary Key(g_id),
+        Foreign Key(t1_id) references Teams(t_id),
+        Foreign Key(t2_id) references Teams(t_id)
 );
 
 
