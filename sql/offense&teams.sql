@@ -73,7 +73,6 @@ create table receiving (
 );
 
 create table offense (
-	o_id int,
 	t_id int,
 	g_id int,
 	first_downs int,
@@ -87,7 +86,7 @@ create table offense (
 	time_of_possession varchar(150),
 	turnovers int,
 	TDs int,
-	Primary Key(o_id),
+	Primary Key(t_id, g_id),
 	Foreign Key(g_id) references Games(g_id),
 	Foreign Key(t_id) references Teams(t_id)
 );
