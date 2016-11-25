@@ -60,7 +60,7 @@ create table Defense (
 	safeties int,
 	yards_allowed int,
 	tds_allowed int,
-	time_on_field Time(),
+	time_on_field varchar(225),
 	Primary Key(t_id, g_id),
 	Foreign Key(t_id) references Teams(t_id),
 	Foreign Key(g_id) references Games(g_id)
