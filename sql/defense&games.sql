@@ -142,7 +142,7 @@ insert into Games ("g_id","t1_id","t2_id","t1_score","t2_score","Date") values(4
 insert into Games ("g_id","t1_id","t2_id","t1_score","t2_score","Date") values(48, 106, 109, 47, 35, 2016-09-24);
 insert into Games ("g_id","t1_id","t2_id","t1_score","t2_score","Date") values(49, 106, 109, 21, 28, 2016-10-14);
 insert into Games ("g_id","t1_id","t2_id","t1_score","t2_score","Date") values(50, 106, 108, 40, 38, 2016-10-22);
-insert into Games ("g_id","t1_id","t2_id","t1_score","t2_score","Date") values(51, 106, 109, 56, 41, 2016-10-09);
+insert into Games ("g_id","t1_id","t2_id","t1_score","t2_score","Date") values(51, 106, 109, 56, 41, 2016-10-29);
 insert into Games ("g_id","t1_id","t2_id","t1_score","t2_score","Date") values(52, 106, 107, 35, 28, 2016-11-05);
 
 -- Texas A&M
