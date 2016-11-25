@@ -19,7 +19,7 @@ insert into players ("p_id","f_name","l_name","t_id","position","number","class"
 insert into players ("p_id","f_name","l_name","t_id","position","number","class") values("20","gehrig",  "Dieter",     "101","WR",  "11","SR");
 insert into players ("p_id","f_name","l_name","t_id","position","number","class") values("21","trevon",  "Diggs",      "101","WR",  "7", "FR");
 insert into players ("p_id","f_name","l_name","t_id","position","number","class") values("22","adam",    "Griffith",   "101","K/PK","99","SR");
-insert into players ("p_id","f_name","l_name","t_id","position","number","class") values("23","andy",    "Pappanastos","101","K/PK","92","JR");
+insert into players ("p_id","f_name","l_name","t_id","position","number","class") values("23","jk",      "Scott",      "101","K/PK","15","JR");
 
 --Arkansas
 insert into players ("p_id","f_name","l_name","t_id","position","number","class") values("1","austin",   "allen",    "102","QB",  "8", "JR");
