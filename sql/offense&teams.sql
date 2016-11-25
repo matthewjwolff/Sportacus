@@ -32,20 +32,18 @@ insert into teams("t_id","name","location") values("108", "Generic SEC", "SEC, U
 insert into teams("t_id","name","location") values("109", "Generic Out Of Conference", "Party in the, USA");
 
 create table rushing (
-	r_id int,
 	g_id int,
 	p_id int,
 	attempts int,
 	yards int,
 	longest_rush int,
 	TDs int,
-	Primary Key(r_id),
+	Primary Key(g_id, p_id),
 	Foreign Key(g_id) references Games(g_id),
 	Foreign Key(p_id) references Players(p_id)
 );
 
 create table passing (
-	pass_id int,
 	g_id int,
 	p_id int,
 	attempts int,
@@ -54,20 +52,19 @@ create table passing (
 	interceptions int,
 	longest_pass int,
 	TDs int,
-	Primary Key(pass_id),
+	Primary Key(g_id, p_id),
 	Foreign Key(g_id) references Games(g_id),
 	Foreign Key(p_id) references Players(p_id)
 );
 
 create table receiving (
-	rec_id int,
 	g_id int,
 	p_id int,
 	receptions int,
 	yards int,
 	longest_reception int,
 	TDs int,
-	Primary Key(rec_id),
+	Primary Key(g_id, p_id),
 	Foreign Key(g_id) references Games(g_id),
 	Foreign Key(p_id) references Players(p_id)
 );
