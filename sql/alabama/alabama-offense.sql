@@ -45,6 +45,6 @@ INSERT INTO offense (t_id, g_id, first_downs, 3rd_down_att, 3rd_down_conv, 4th_d
 VALUES (101, 11, 14, 13, 4, 1, 1, 196, 136, 3, '25:54', 2, 4);
 
 -- vs AUB
-INSERT INTO offense (t_id, g_id, first_downs, 3rd_down_att, 3rd_down_conv, 4th_down_att, 4th_down_conv, total_rushing, total_passing, sacks_allowed, time_of_possession, turnovers, TDs) 
-VALUES (101, 12, 26, 13, 7, 1, 0, 218, 397, 1, '27:22', 2, 6);
+--INSERT INTO offense (t_id, g_id, first_downs, 3rd_down_att, 3rd_down_conv, 4th_down_att, 4th_down_conv, total_rushing, total_passing, sacks_allowed, time_of_possession, turnovers, TDs) 
+--VALUES (101, 12, 26, 13, 7, 1, 0, 218, 397, 1, '27:22', 2, 6);
 
