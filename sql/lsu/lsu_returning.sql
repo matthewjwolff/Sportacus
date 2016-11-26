@@ -1,4 +1,4 @@
--- LSU returning
+-- LSU preturns
 
 -- vs Wisconsin
 INSERT INTO Returning (t_id, g_id, total_returns, total_return_yards, longest_return, touchdowns)

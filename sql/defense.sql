@@ -18,7 +18,7 @@
 
 
 
-create table returning (
+create table preturns (
 	t_id int,
 	g_id int,
 	total_returns int,

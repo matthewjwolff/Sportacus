@@ -14,7 +14,7 @@ insert into receiving values (46, 55, 2, 4, 8, 0);
 insert into receiving values (46, 56, 1, 6, 6, 0);
 insert into offense values (106, 46, 22, 9, 2, 0, 0, 239, 143, 1, '23:19', 0, 2);
 insert into defense values (106, 46, 3, 0, 0, 0, 0, 0, 379, 3, '36:41');
-insert into returning values (106, 46, 4, 35, 22, 0);
+insert into preturns values (106, 46, 4, 35, 22, 0);
 insert into kicking values (57, 46, null, null, null, 48, 4, 2, 2, 2, null);
 insert into kicking values (58, 46, 133, 3, 57, null, null, null, null, null, 0);
 
@@ -31,7 +31,7 @@ insert into receiving values (47, 55, 0, 0, 0, 0);
 insert into receiving values (47, 56, 1, 17, 17, 0);
 insert into offense values (106, 47, 24, 14, 6, 2, 0, 290, 195, 0, '29:55', 1, 3);
 insert into defense values (106, 47, 4, 1, 0, 1, 0, 0, 243, 2, '30:05');
-insert into returning values (106, 47, 5, 51, 16, 0);
+insert into preturns values (106, 47, 5, 51, 16, 0);
 insert into kicking values (57, 47, null, null, null, 28, 2, 2, 3, 3, null);
 insert into kicking values (58, 47, 198, 4, 68, null, null, null, null, null, 0);
 
@@ -47,7 +47,7 @@ insert into receiving values (34, 55, 1, 0, 0, 0);
 insert into receiving values (34, 56, 0, 0, 0, 0);
 insert into offense values (106, 34, 14, 14, 1, 4, 3, 56, 214, 6, '27:16', 1, 2);
 insert into defense values (106, 34, 0, 0, 0, 1, 0, 0, 392, 3, '32:44');
-insert into returning values (106, 34, 4, 41, 14, 0);
+insert into preturns values (106, 34, 4, 41, 14, 0);
 insert into kicking values (57, 34, null, null, null, 41, 2, 2, 2, 2, null);
 insert into kicking values (58, 34, 271, 7, 55, null, null, null, null, null, 0);
 
@@ -64,7 +64,7 @@ insert into receiving values (48, 55, 1, -3, 0, 0);
 insert into receiving values (48, 56, 0, 0, 0, 0);
 insert into offense values (106, 48, 31, 15, 6, 2, 2, 293, 305, 1, '32:23', 1, 5);
 insert into defense values (106, 48, 2, 3, 1, 0, 0, 0, 411, 5, '27:37');
-insert into returning values (106, 48, 10, 162, 48, 0);
+insert into preturns values (106, 48, 10, 162, 48, 0);
 insert into kicking values (57, 48, null, null, null, 30, 2, 2, 5, 5, null);
 insert into kicking values (58, 48, 170, 5, 51, null, null, null, null, null, 0);
 
@@ -81,7 +81,7 @@ insert into receiving values (27, 55, 2, 55, 37, 1);
 insert into receiving values (27, 56, 1, 26, 26, 0);
 insert into offense values (106, 27, 16, 16, 6, 3, 2, 103, 186, 3, '26:38', 3, 2);
 insert into defense values (106, 27, 2, 1, 0, 4, 0, 0, 432, 4, '33:22');
-insert into returning values (106, 27, 2, -3, 1, 0);
+insert into preturns values (106, 27, 2, -3, 1, 0);
 insert into kicking values (57, 27, null, null, null, 0, 1, 0, 2, 2, null);
 insert into kicking values (58, 27, 204, 5, 59, null, null, null, null, null, 0);
 
@@ -98,7 +98,7 @@ insert into receiving values (49, 55, 4, 69, 44, 1);
 insert into receiving values (49, 56, 0, 0, 0, 0);
 insert into offense values (106, 49, 23, 19, 8, 3, 1, 163, 223, 2, '29:02', 2, 3);
 insert into defense values (106, 49, 2, 1, 0, 1, 0, 0, 311, 4, '30:58');
-insert into returning values (106, 49, 1, 14, 14, 0);
+insert into preturns values (106, 49, 1, 14, 14, 0);
 insert into kicking values (57, 49, null, null, null, 0, 1, 0, 3, 3, null);
 insert into kicking values (58, 49, 184, 5, 51, null, null, null, null, null, 0);
 
@@ -114,7 +114,7 @@ insert into receiving values (50, 55, 2, 20, 22, 0);
 insert into receiving values (50, 56, 1, 5, 5, 0);
 insert into offense values (106, 50, 23, 16, 12, 4, 0, 0, 281, 81, 0, '27:07', 1, 4);
 insert into defense values (106, 50, 2, 0, 0, 2, 1, 0, 554, 3, '32:53');
-insert into returning values (106, 50, 5, 108, 45, 0);
+insert into preturns values (106, 50, 5, 108, 45, 0);
 insert into kicking values (57, 50, null, null, null, 36, 1, 1, 5, 5, null);
 insert into kicking values (58, 50, 226, 6, 41, null, null, null, null, null, 0);
 
@@ -131,7 +131,7 @@ insert into receiving values (51, 55, 0, 0, 0, 0);
 insert into receiving values (51, 56, 0, 0, 0, 0);
 insert into offense values (106, 51, 29, 15, 7, 3, 1, 252, 417, 1, '29:19', 3, 7);
 insert into defense values (106, 51, 3, 3, 1, 0, 0, 0, 627, 5, '30:41');
-insert into returning values (106, 51, 3, 44, 23, 0);
+insert into preturns values (106, 51, 3, 44, 23, 0);
 insert into kicking values (57, 51, null, null, null, 0, 1, 0, 8, 8, null);
 insert into kicking values (58, 51, 116, 3, 58, null, null, null, null, null, 0);
 
@@ -148,7 +148,7 @@ insert into receiving values (52, 55, 5, 54, 22, 0);
 insert into receiving values (52, 56, 0, 0, 0, 0);
 insert into offense values (106, 52, 29, 18, 11, 0, 0, 365, 209, 0, '37:13', 2, 5);
 insert into defense values (106, 52, 3, 1, 0, 1, 0, 0, 382, 3, '22:47');
-insert into returning values (106, 52, 3, 37, 27, 0);
+insert into preturns values (106, 52, 3, 37, 27, 0);
 insert into kicking values (57, 52, null, null, null, 0, 1, 0, 5, 5, null);
 insert into kicking values (58, 52, 88, 2, 56, null, null, null, null, null, 0);
 
@@ -165,6 +165,6 @@ insert into receiving values (21, 55, 0, 0, 0, 0);
 insert into receiving values (21, 56, 2, 38, 24, 0);
 insert into offense values (106, 21, 25, 12, 5, 4, 4, 205, 328, 0, '26:47', 0, 6);
 insert into defense values (106, 21, 0, 0, 0, 0, 0, 0, 661, 8, '33:13');
-insert into returning values (106, 21, 10, 178, 30, 0);
+insert into preturns values (106, 21, 10, 178, 30, 0);
 insert into kicking values (57, 21, null, null, null, 0, 1, 0, 4, 4, null);
 insert into kicking values (58, 21, 0, 0, 0, null, null, null, null, null, 0);

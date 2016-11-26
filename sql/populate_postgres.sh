@@ -15,4 +15,4 @@ psql -f offense.sql sportacus
 psql -f defense.sql sportacus
 
 # step 3, team scripts
-psql -f */*.sql sportacus
+cat */*.sql | psql sportacus

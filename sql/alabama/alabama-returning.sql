@@ -1,4 +1,4 @@
--- returning alabama
+-- preturns alabama
 
 -- vs USC
 
