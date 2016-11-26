@@ -18,7 +18,7 @@
 
 
 
-create table Returning (
+create table returning (
 	t_id int,
 	g_id int,
 	total_returns int,
@@ -26,12 +26,12 @@ create table Returning (
 	longest_return int,
 	touchdowns int,
 	Primary Key(t_id, g_id),
-	Foreign Key(t_id) references Teams(t_id),
-	Foreign Key(g_id) references Games(g_id)
+	Foreign Key(t_id) references teams(t_id),
+	Foreign Key(g_id) references games(g_id)
 );
 
 
-create table Kicking (
+create table kicking (
 	p_id int,
 	g_id int,
 	total_punting_yards int,
@@ -44,12 +44,12 @@ create table Kicking (
 	PAT_made int,
 	total_touchbacks int,
 	Primary Key(p_id, g_id),
-	Foreign Key(p_id) references Players(p_id),
-	Foreign Key(g_id) referneces Games(g_id)
+	Foreign Key(p_id) references players(p_id),
+	Foreign Key(g_id) referneces games(g_id)
 );
 
 
-create table Defense (
+create table defense (
 	t_id int,
 	g_id int,
 	sacks int,
@@ -62,6 +62,6 @@ create table Defense (
 	tds_allowed int,
 	time_on_field varchar(225),
 	Primary Key(t_id, g_id),
-	Foreign Key(t_id) references Teams(t_id),
-	Foreign Key(g_id) references Games(g_id)
+	Foreign Key(t_id) references teams(t_id),
+	Foreign Key(g_id) references games(g_id)
 );
