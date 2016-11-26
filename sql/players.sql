@@ -8,7 +8,7 @@ create table players(
 	classRank varchar(20)
 )
 
---Alabama 
+--Alabama
 insert into players ("p_id","f_name","l_name","t_id","position","number","class") values("13","jalen",   "Hurts",      "101","QB",  "2", "FR");
 insert into players ("p_id","f_name","l_name","t_id","position","number","class") values("14","cooper",  "Bateman",    "101","QB",  "18","JR");
 insert into players ("p_id","f_name","l_name","t_id","position","number","class") values("15","damien",  "Harris",     "101","RB",  "34","SO");
@@ -92,7 +92,7 @@ insert into players ("p_id","f_name","l_name","t_id","position","number","class"
 
 --Texas A&M
 insert into players ("p_id","f_name","l_name","t_id","position","number","class") values("24","Jake",     "Hubenak",    "107","QB",  "10","JR");
-insert into players ("p_id","f_name","l_name","t_id","position","number","class") values("25","Nick",     "Starkel",    "107","QB",  "17","FR");
+insert into players ("p_id","f_name","l_name","t_id","position","number","class") values("25","Trevor",   "Knight",     "107","QB",  "8", "SR");
 insert into players ("p_id","f_name","l_name","t_id","position","number","class") values("26","Speedy",   "Noil",       "107","WR",  "2", "JR");
 insert into players ("p_id","f_name","l_name","t_id","position","number","class") values("27","Ricky",    "Seals-Jones","107","WR",  "9", "JR");
 insert into players ("p_id","f_name","l_name","t_id","position","number","class") values("28","Josh",     "Reynolds",   "107","TE",  "11","SR");
@@ -102,11 +102,3 @@ insert into players ("p_id","f_name","l_name","t_id","position","number","class"
 insert into players ("p_id","f_name","l_name","t_id","position","number","class") values("32","Keith",    "Ford",       "107","RB",  "7", "JR");
 insert into players ("p_id","f_name","l_name","t_id","position","number","class") values("33","Shane",    "Tripucka",   "107","K/PK","46","JR");
 insert into players ("p_id","f_name","l_name","t_id","position","number","class") values("34","Daniel",   "LaCamera",   "107","K/PK","36","SO");
-
-
-
-
-
-
-
-
