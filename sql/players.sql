@@ -64,7 +64,7 @@ insert into players values(68,'Colby', 'Delahoussaye',104,'K/PK',42,'SR');
 insert into players values(69,'Josh',  'Growden',     104,'K/PK',38,'FR');
 
 -- Ole Miss
-insert into players values(34,'Chad',     'Kelly',       106,'QB',  10,'SR');
+insert into players values(35,'Chad',     'Kelly',       106,'QB',  10,'SR');
 insert into players values(36,'Shea',     'Patterson',   106,'QB',  20,'FR');
 insert into players values(37,'Akeem',    'Judd',        106,'RB',  21,'SR');
 insert into players values(38,'Eugene',   'Brazley',     106,'RB',  23,'JR');
