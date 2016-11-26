@@ -25,3 +25,26 @@ select classRank, f_name, l_name
 from players
 where f_name = 'Ryan'
 and l_name = 'Davis';
+
+
+-- If Auburn beat LSU who did Auburn beat?
+
+select t2_id, (select name from teams where t2_id = _id)
+from games 
+where t1_id = 103 
+and t1_score > t2_score
+and t2_id <> 104;
+
+-- Average number of points LSU scored against their 
+--  oponents when their interceptions were less than 2
+select AVG(t1_score)
+from games
+where t1_id = 104
+and t1_score > t2_score
+and 
+(
+	select interceptions
+	from passing
+	where Games.g_id = passing.g_id
+	and interceptions < 2;
+)
