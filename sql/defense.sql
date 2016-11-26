@@ -45,7 +45,7 @@ create table kicking (
 	total_touchbacks int,
 	Primary Key(p_id, g_id),
 	Foreign Key(p_id) references players(p_id),
-	Foreign Key(g_id) referneces games(g_id)
+	Foreign Key(g_id) references games(g_id)
 );
 
 
