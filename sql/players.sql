@@ -5,8 +5,10 @@ create table players(
 	t_id int,
 	position varchar(20),
 	num int,
-	classRank varchar(20)
-)
+	classRank varchar(20),
+	Primary Key(p_id),
+	FOREIGN Key(t_id) references teams(t_id)
+);
 
 --Alabama
 insert into players values(13,'jalen',   'Hurts',      101,'QB',  2, 'FR');
