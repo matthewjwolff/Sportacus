@@ -67,12 +67,12 @@ VALUES (1, 14, 1, 1, 5, 0, 5, 0);
 -- vs WKU
 
 INSERT INTO passing (g_id, p_id, attempts, completions, yards, interceptions, longest_pass, TDs) 
-VALUES (2, 14, 0, 0, 0, 0, 0, 0);
+VALUES (2, 14, NULL, NULL, NULL, NULL, NULL, NULL);
 
 -- vs MISS
 
 INSERT INTO passing (g_id, p_id, attempts, completions, yards, interceptions, longest_pass, TDs) 
-VALUES (3, 14, 0, 0, 0, 0, 0, 0);
+VALUES (3, 14, NULL, NULL, NULL, NULL, NULL, NULL);
 
 -- vs KENT
 
@@ -87,7 +87,7 @@ VALUES (5, 14, 5, 5, 53, 0, 24, 0);
 -- vs ARK
 
 INSERT INTO passing (g_id, p_id, attempts, completions, yards, interceptions, longest_pass, TDs) 
-VALUES (6, 14, 0, 0, 0, 0, 0, 0);
+VALUES (6, 14, NULL, NULL, NULL, NULL, NULL, NULL);
 
 -- vs TENN
 
@@ -97,12 +97,12 @@ VALUES (7, 14, 1, 1, 13, 0, 13, 0);
 -- vs TA&M
 
 INSERT INTO passing (g_id, p_id, attempts, completions, yards, interceptions, longest_pass, TDs) 
-VALUES (8, 14, 0, 0, 0, 0, 0, 0);
+VALUES (8, 14, NULL, NULL, NULL, NULL, NULL, NULL);
 
 -- vs LSU
 
 INSERT INTO passing (g_id, p_id, attempts, completions, yards, interceptions, longest_pass, TDs) 
-VALUES (9, 14, 0, 0, 0, 0, 0, 0);
+VALUES (9, 14, NULL, NULL, NULL, NULL, NULL, NULL);
 
 -- vs MSST
 
@@ -112,5 +112,5 @@ VALUES (10, 14, 4, 3, 50, 0, 30, 1);
 -- vs CHAT
 
 INSERT INTO passing (g_id, p_id, attempts, completions, yards, interceptions, longest_pass, TDs) 
-VALUES (11, 14, 0, 0, 0, 0, 0, 0);
+VALUES (11, 14, NULL, NULL, NULL, NULL, NULL, NULL);
 
