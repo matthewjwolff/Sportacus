@@ -45,6 +45,6 @@ and
 (
 	select interceptions
 	from passing
-	where Games.g_id = passing.g_id
+	where games.g_id = passing.g_id
 	and interceptions < 2;
 )
