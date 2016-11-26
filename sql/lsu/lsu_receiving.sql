@@ -29,7 +29,7 @@ INSERT INTO receiving VALUES (25,66,0,0,0,0);
 INSERT INTO receiving VALUES (25,67,0,0,0,0);
 
 -- vs Missouri
-INSERT INTO receiving VALUES (53,63,4,34,12,0);
+INSERT INTO receiving VALUES (35,63,4,34,12,0);
 INSERT INTO receiving VALUES (35,64,4,37,12,0);
 INSERT INTO receiving VALUES (35,66,2,17,10,0);
 INSERT INTO receiving VALUES (35,67,0,0,0,0);
