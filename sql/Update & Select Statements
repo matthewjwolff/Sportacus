@@ -29,7 +29,7 @@ and l_name = 'Davis';
 
 -- If Auburn beat LSU who did Auburn beat?
 
-select t2_id, (select name from teams where t2_id = _id)
+select t2_id, (select name from teams where t2_id = t_id)
 from games 
 where t1_id = 103 
 and t1_score > t2_score
