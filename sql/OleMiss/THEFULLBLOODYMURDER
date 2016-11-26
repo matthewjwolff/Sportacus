@@ -8,8 +8,8 @@ insert into receiving  values(39, 43, 2, 48, 36, 0);
 INSERT INTO offense   VALUES(105, 39, 21, 11, 5, 1, 1, 67, 313, 5, '17:21', 4, 4);
 
 -- vs Wofford
-insert into rushing  values(40, 37, 11, 16, 0);
-insert into rushing  values(40, 38, 4, 21, 0);
+insert into rushing  values(40, 37, 11, 64, 16, 0);
+insert into rushing  values(40, 38, 4, 39, 21, 0);
 insert into passing  values(40, 34, 27, 20, 219, 0, 33, 4);
 insert into receiving  values(40, 39, 2, 43, 33, 0);
 INSERT INTO offense    VALUES(105, 40, 22, 13, 10, 0, 0, 174, 242, 0, '24:34', 1, 5);
@@ -57,7 +57,7 @@ INSERT INTO offense   VALUES(105, 45, 19, 16, 6, 0, 0, 107, 218, 2, '27:47', 2, 
 Insert into kicking values(44, 39, 132, 3, 51, null, null, null, 4, 4, null);
 Insert into kicking values(45, 39, 1, 44, null, null, null, null, null, null, null);
 Insert into preturns  values(105, 39, 1, 7, 7, 0);
-Insert into defense values(105, 39, 3, 0, 0, 3, 2, 0, 0, 580, 4, '42:39');
+Insert into defense values(105, 39, 3, 0, 3, 2, 0, 0, 580, 4, '42:39');
 
 -- vs Woffard
 Insert into kicking values(44, 40, 32, 1, 32, 40, 1, 1, 5, 5, null);
@@ -68,29 +68,29 @@ Insert into defense values(105, 40, 0, 0, 1, 1, 0, 0, 305, 1, '35:26');
 -- vs Alabama
 Insert into kicking values(44, 41, 164, 3, 68, 38, 3, 3, 4, 4, null);
 Insert into kicking values(45, 41, 97, 2, 53, null, null, null, null, null, null);
-Insert into preturns  values(105, 41, 35, 22, 0);
+Insert into preturns  values(105, 41, 3, 35, 22, 0);
 Insert into defense values(105, 41, 1, 0, 0, 2, 2, 0, 492, 6, '35:23');
 
 -- vs Georgia
 Insert into kicking values(44, 42, 49, 1, 49, 24, 2, 1, 6, 6, null);
 Insert into kicking values(45, 42, 139, 3, 60, null, null, null, null, null, null);
 Insert into preturns  values(105, 42, 3, 27, 20, 0);
-Insert into defense values(105, 42, 3, 1, 0, 2, 1, 0, 0, 396, 2, '35:48');
+Insert into defense values(105, 42, 3, 1, 0, 2, 1, 0, 396, 2, '35:48');
 
 -- vs Memphis
 Insert into kicking values(44, 43, 0, 0, 0, 32, 2, 2, 6, 6, null);
 Insert into kicking values(45, 43, 81, 81, 2, 49, null, null, null, null, null);
 Insert into preturns  values(105, 43, 2, 35, 35, 0);
-Insert into defense values(105, 43, 2, 3, 1, 1, 1, 0, 0, 474, 4, '27:47');
+Insert into defense values(105, 43, 2, 3, 1, 1, 1, 0, 474, 4, '27:47');
 
 -- vs Arkansas
 Insert into kicking values(44, 44, 78, 2, 78, 33, 1, 1, 4, 3, null);
 Insert into kicking values(45, 44, 2, 47, null, null, null, null, null, null, null);
 Insert into preturns  values(105, 44, 5, 87, 39, 0);
-Insert into defense values(105, 44, 3, 1, 0, 1, 1, 0, 0, 429, 4, '40:38');
+Insert into defense values(105, 44, 3, 1, 0, 1, 1, 0, 429, 4, '40:38');
 
 -- vs LSU
 Insert into kicking values(44, 45, null, null, null, 46, 2, 2, 1, 1, null);
 Insert into kicking values(45, 45, 358, 8, 53, null, null, null, null, null, null);
 Insert into preturns  values(105, 45, 8, 16, 8, 0);
-Insert into defense values(105, 45, 2, 1, 0, 2, 2, 0, 0, 515, 5, '32:13');
+Insert into defense values(105, 45, 2, 1, 0, 2, 2, 0, 515, 5, '32:13');
