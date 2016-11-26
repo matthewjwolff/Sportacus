@@ -28,4 +28,4 @@ insert into receiving values(15, 6, 0, 0, 0, 0);
 insert into receiving values(15, 7, 7, 126, 38, 1);
 
 
-insert into offense values(102, 15, 27, 16, 9, 3, 1, 120, 371, 1, 39:45, 0, 3);
+insert into offense values(102, 15, 27, 16, 9, 3, 1, 120, 371, 1, '39:45', 0, 3);
