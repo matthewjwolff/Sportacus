@@ -1,0 +1,27 @@
+-- UPDATE 1
+
+select p_id, num from players where p_id = 13;
+
+update players
+set num = 3
+where p_id = 13;
+
+select p_id, num from players where p_id = 13;
+
+-- UPDATE 2
+
+select classRank, f_name, l_name 
+from players
+where f_name = 'Ryan'
+and l_name = 'Davis';
+
+update players
+set classRank = 'JR'
+where classRank = 'SO'
+and f_name = 'Ryan'
+and l_name = 'Davis;
+
+select classRank, f_name, l_name 
+from players
+where f_name = 'Ryan'
+and l_name = 'Davis';
