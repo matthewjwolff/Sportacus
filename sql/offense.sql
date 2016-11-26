@@ -21,8 +21,8 @@ create table rushing (
 	longest_rush int,
 	TDs int,
 	Primary Key(g_id, p_id),
-	Foreign Key(g_id) references Games(g_id),
-	Foreign Key(p_id) references Players(p_id)
+	Foreign Key(g_id) references games(g_id),
+	Foreign Key(p_id) references players(p_id)
 );
 
 create table passing (
@@ -35,8 +35,8 @@ create table passing (
 	longest_pass int,
 	TDs int,
 	Primary Key(g_id, p_id),
-	Foreign Key(g_id) references Games(g_id),
-	Foreign Key(p_id) references Players(p_id)
+	Foreign Key(g_id) references games(g_id),
+	Foreign Key(p_id) references players(p_id)
 );
 
 create table receiving (
@@ -47,8 +47,8 @@ create table receiving (
 	longest_reception int,
 	TDs int,
 	Primary Key(g_id, p_id),
-	Foreign Key(g_id) references Games(g_id),
-	Foreign Key(p_id) references Players(p_id)
+	Foreign Key(g_id) references games(g_id),
+	Foreign Key(p_id) references players(p_id)
 );
 
 create table offense (
@@ -66,6 +66,6 @@ create table offense (
 	turnovers int,
 	TDs int,
 	Primary Key(t_id, g_id),
-	Foreign Key(g_id) references Games(g_id),
-	Foreign Key(t_id) references Teams(t_id)
+	Foreign Key(g_id) references games(g_id),
+	Foreign Key(t_id) references teams(t_id)
 );
