@@ -29,7 +29,7 @@ VALUES (69,25,185,5,45,null,null,null,null,null,0);
 
 -- vs Missouri
 INSERT INTO kicking (p_id, g_id, total_punting_yards, total_punts, longest_punt, longest_field_goal, FG_attempted, FG_made, PAT_attempted, PAT_made, total_touchbacks)
-VALUES (668,35,null,null,null,0,1,0,6,6,null);
+VALUES (68,35,null,null,null,0,1,0,6,6,null);
 INSERT INTO kicking (p_id, g_id, total_punting_yards, total_punts, longest_punt, longest_field_goal, FG_attempted, FG_made, PAT_attempted, PAT_made, total_touchbacks)
 VALUES (69,35,143,3,53,null,null,null,null,null,0);
 
