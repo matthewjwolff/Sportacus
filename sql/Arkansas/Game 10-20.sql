@@ -1,4 +1,4 @@
-insert into returning values(102, 20, 8, 127, 28, 0);
+insert into preturns values(102, 20, 8, 127, 28, 0);
 
 
 insert into kicking values(11, 20, 0, 0, 0, 24, 1, 1, 1, 1, 0);
