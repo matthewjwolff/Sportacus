@@ -6,7 +6,7 @@ insert into kicking values(11, 17, 0, 0, 0, 43, 2, 2, 4, 4, 0);
 insert into kicking values(10, 17, 231, 5, 54, 0, 0, 0, 0, 0, 0);
 
 
-insert into defense values(102, 17, 2, 1, 0, 2, 0, 0, 403, 4, 19:22);
+insert into defense values(102, 17, 2, 1, 0, 2, 0, 0, 403, 4, '19:22');
 
 
 insert into rushing values(17, 8, 27, 180, 53, 0);
@@ -28,4 +28,4 @@ insert into receiving values(17, 6, 3, 65, 51, 1);
 insert into receiving values(17, 7, 3, 40, 20, 0);
 
 
-insert into offense values(102, 17, 27, 16, 5, 1, 1, 200, 229, 3, 40:38, 1, 4);
+insert into offense values(102, 17, 27, 16, 5, 1, 1, 200, 229, 3, '40:38', 1, 4);
