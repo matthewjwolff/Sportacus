@@ -1,6 +1,5 @@
 -- UCLA Bruins
-insert into offense (t_id, g_id, first_downs, 3rd_down_att, 3rd_down_conv, 4th_down_att, 4th_down_conv, total_rushing, total_passing, sacks_allowed, time_of_possession, turnovers, TDs)
-  values (107, 53, 23, 15, 4, 2, 1, 203, 239, 0, '26:42', 2, 4);
+insert into offense values (107, 53, 23, 15, 4, 2, 1, 203, 239, 0, '26:42', 2, 4);
 
 -- Prairie View Panthers
 insert into offense values (107, 54, 35, 16, 8, 2, 2, 277, 395, 2, '28:18', 2, 8);
