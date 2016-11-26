@@ -5,12 +5,12 @@
 --   game_id, p_id, receptions, yards, yards/receptions, longest, TDs
 
 -- Passing:
---   game_id, p_id, attempts, completions, yards, completion %, yards/attempt, 
+--   game_id, p_id, attempts, completions, yards, completion %, yards/attempt,
 --     interceptions, longest pass, rating, TDs
 
 -- Offense:
---   t_id, game_id, first downs, 3rd down attempts, 3rd down conversion, 4th down attempts, 4th down conversion, total yards, 
---     total rushing, total passing, sacks allowed, field goals, TDs, time of possession, 
+--   t_id, game_id, first downs, 3rd down attempts, 3rd down conversion, 4th down attempts, 4th down conversion, total yards,
+--     total rushing, total passing, sacks allowed, field goals, TDs, time of possession,
 --     turnovers
 
 
