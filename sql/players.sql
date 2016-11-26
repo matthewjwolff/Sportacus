@@ -10,7 +10,7 @@ create table players(
 	FOREIGN Key(t_id) references teams(t_id)
 );
 
---Alabama
+-- Alabama
 insert into players values(13,'jalen',   'Hurts',      101,'QB',  2, 'FR');
 insert into players values(14,'cooper',  'Bateman',    101,'QB',  18,'JR');
 insert into players values(15,'damien',  'Harris',     101,'RB',  34,'SO');
@@ -23,7 +23,7 @@ insert into players values(21,'trevon',  'Diggs',      101,'WR',  7, 'FR');
 insert into players values(22,'adam',    'Griffith',   101,'K/PK',99,'SR');
 insert into players values(23,'jk',      'Scott',      101,'K/PK',15,'JR');
 
---Arkansas
+-- Arkansas
 insert into players values(1,'austin',   'allen',    102,'QB',  8, 'JR');
 insert into players values(2,'ty',       'storey',   102,'QB',  5, 'FR');
 insert into players values(3,'keon',     'hatcher',  102,'WR',  4, 'SR');
@@ -37,7 +37,7 @@ insert into players values(10,'toby',    'baker',    102,'K/PK',37,'SR');
 insert into players values(11,'adam',    'mcfain',   102,'K/PK',48,'SR');
 insert into players values(12,'cole',    'hedlund',  102,'K/PK',9, 'SO');
 
---Auburn
+-- Auburn
 insert into players values(70,'Sean',   'White',  103,'QB',  13,'SO');
 insert into players values(71,'Jeremy', 'Johnson',103,'QB',  6, 'SO');
 insert into players values(72,'Kerryon','Johnson',103,'RB',  21,'SO');
@@ -50,7 +50,7 @@ insert into players values(78,'Kyle',   'Davis',  103,'WR',  11,'FR');
 insert into players values(79,'Daniel', 'Carlson', 103,'K/PK',38,'JR');
 insert into players values(80,'Kevin',  'Phillips',103,'K/PK',91,'SR');
 
---LSU
+-- LSU
 insert into players values(59,'Danny',  'Etling',     104,'QB',  16,'JR');
 insert into players values(60,'Brandon','Harris',     104,'QB',  6, 'JR');
 insert into players values(61,'Leonard','Fournette',  104,'RB',  7, 'JR');
@@ -63,7 +63,7 @@ insert into players values(67,'Dee',    'Anderson',   104,'WR',  11,'FR');
 insert into players values(68,'Colby', 'Delahoussaye',104,'K/PK',42,'SR');
 insert into players values(69,'Josh',  'Growden',     104,'K/PK',38,'FR');
 
---Ole Miss
+-- Ole Miss
 insert into players values(34,'Chad',     'Kelly',       106,'QB',  10,'SR');
 insert into players values(36,'Shea',     'Patterson',   106,'QB',  20,'FR');
 insert into players values(37,'Akeem',    'Judd',        106,'RB',  21,'SR');
@@ -78,7 +78,7 @@ insert into players values(45,'Will',     'Gleason',     106,'K/PK',94,'JR');
 insert into players values(46,'Zedrick',  'Woods',       106,'DB',  36,'SO');
 insert into players values(47,'Carlos',   'Davis',       106,'DB',  23,'SR');
 
---Mississippi state
+-- Mississippi state
 insert into players values(48,'Nick',   'Fitzgerald',105,'QB',  7, 'SO');
 insert into players values(49,'Damian', 'Williams',  105,'QB',  11,'JR');
 insert into players values(50,'Aeris',  'Williams',  105,'RB',  27,'SO');
@@ -91,7 +91,7 @@ insert into players values(56,'Jamal',  'Couch',     105,'WR',  17,'FR');
 insert into players values(57,'Westin', 'Graves',    105,'K/PK',25,'JR');
 insert into players values(58,'Logan',  'Cooke',     105,'K/PK',43,'JR');
 
---Texas A&M
+-- Texas A&M
 insert into players values(24,'Jake',     'Hubenak',    107,'QB',  10,'JR');
 insert into players values(25,'Trevor',   'Knight',     107,'QB',  8, 'SR');
 insert into players values(26,'Speedy',   'Noil',       107,'WR',  2, 'JR');
