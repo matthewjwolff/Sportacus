@@ -1,4 +1,5 @@
 -- UPDATE 1 update number of player with id 13 from 2 to 3
+-- Chris
 
 select p_id, num from players where p_id = 13;
 
@@ -9,6 +10,7 @@ where p_id = 13;
 select p_id, num from players where p_id = 13;
 
 -- UPDATE 2 update class rank of player with name Ryan Davis from sophomore to junior
+-- Chris
 
 select classRank, f_name, l_name 
 from players
@@ -27,7 +29,7 @@ where f_name = 'Ryan'
 and l_name = 'Davis';
 
 
--- If Auburn beat LSU who did Auburn beat?
+-- If Auburn beat LSU who did LSU beat?
 
 select t2_id, (select name from teams where t2_id = t_id)
 from games 
@@ -48,30 +50,3 @@ and
 	where games.g_id = passing.g_id
 	and interceptions < 2;
 )
-
--- ALL SEC WEST TEAMS
-SELECT * FROM teams 
-	WHERE t_id <> 108 AND t_id <> 109;
-
-
--- TEAM WITH THE BEST RECORD
-CREATE VIEW winning_t1 AS 
-(SELECT t1_id AS t_id FROM Games 
-	WHERE t1_score > t2_score);
-
-CREATE VIEW winning_t2 AS 
-(SELECT t2_id AS t_id FROM Games 
-	WHERE t2_score > t1_score);
-
-CREATE VIEW winning_team AS 
-(SELECT winning_t1.t_id, MAX(COUNT(winning_t1.t_id) + COUNT(winning_t2.t_id)) 
-	FROM winning_t1, winning_t2
-	WHERE winning_t1.t_id = winning_t2.t_id);
-
-SELECT teams.t_id, teams.name FROM teams, winning_team 
-	WHERE teams.i_id = winning_team.t_id;
-
-DROP VIEW winning_t1;
-DROP VIEW winning_t2;
-DROP VIEW winning_team;
-
