@@ -1,4 +1,4 @@
--- t_id = 106
+  -- t_id = 106
 
 -- South Alabama vs Mississippi State , g_id = 46
 
@@ -25,7 +25,7 @@ insert into rushing values (47, 48, 17, 195, 74, 0);
 insert into rushing values (47, 50, 5, 21, 7, 0);
 insert into rushing values (47, 51, 5, 28, 16, 0);
 insert into receiving values (47, 52, 5, 39, 18, 1);
-insert into receiving values (47, 53, 5, 71, 22 1);
+insert into receiving values (47, 53, 5, 71, 22, 1);
 insert into receiving values (47, 54, 0, 0, 0, 0);
 insert into receiving values (47, 55, 0, 0, 0, 0);
 insert into receiving values (47, 56, 1, 17, 17, 0);
@@ -112,7 +112,7 @@ insert into receiving values (50, 52, 5, 50, 19, 1);
 insert into receiving values (50, 53, 1, -3, 0, 0);
 insert into receiving values (50, 55, 2, 20, 22, 0);
 insert into receiving values (50, 56, 1, 5, 5, 0);
-insert into offense values (106, 50, 23, 16, 12, 4, 0, 0, 281, 81, 0, '27:07', 1, 4);
+insert into offense values (106, 50, 23, 16, 12, 4, 0, 281, 81, 0, '27:07', 1, 4);
 insert into defense values (106, 50, 2, 0, 0, 2, 1, 0, 554, 3, '32:53');
 insert into preturns values (106, 50, 5, 108, 45, 0);
 insert into kicking values (57, 50, null, null, null, 36, 1, 1, 5, 5, null);
