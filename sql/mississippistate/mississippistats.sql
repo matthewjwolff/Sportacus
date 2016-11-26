@@ -110,7 +110,6 @@ insert into rushing values (50, 50, 8, 36, 7, 0);
 insert into rushing values (50, 51, 2, 27, 15, 0);
 insert into receiving values (50, 52, 5, 50, 19, 1);
 insert into receiving values (50, 53, 1, -3, 0, 0);
-insert into receiving values (50, brandon, 0, 0, 0, 0);
 insert into receiving values (50, 55, 2, 20, 22, 0);
 insert into receiving values (50, 56, 1, 5, 5, 0);
 insert into offense values (106, 50, 23, 16, 12, 4, 0, 0, 281, 81, 0, '27:07', 1, 4);
