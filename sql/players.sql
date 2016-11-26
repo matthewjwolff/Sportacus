@@ -64,32 +64,32 @@ insert into players values(68,'Colby', 'Delahoussaye',104,'K/PK',42,'SR');
 insert into players values(69,'Josh',  'Growden',     104,'K/PK',38,'FR');
 
 -- Ole Miss
-insert into players values(35,'Chad',     'Kelly',       106,'QB',  10,'SR');
-insert into players values(36,'Shea',     'Patterson',   106,'QB',  20,'FR');
-insert into players values(37,'Akeem',    'Judd',        106,'RB',  21,'SR');
-insert into players values(38,'Eugene',   'Brazley',     106,'RB',  23,'JR');
-insert into players values(39,'Evan',     'engram',      106,'TE',  17,'SR');
-insert into players values(40,'Damore\'ea','Stringfellow',106,'WR', 3, 'JR');
-insert into players values(41,'Van',      'Jefferson',   106,'WR',  12,'FR');
-insert into players values(42,'Quincy',   'adeboyejo',   106,'WR',  8, 'SR');
-insert into players values(43,'AJ',       'Brown',       106,'WR',  1, 'FR');
-insert into players values(44,'Gary',     'Wunderlich',  106,'K/PK',97,'JR');
-insert into players values(45,'Will',     'Gleason',     106,'K/PK',94,'JR');
-insert into players values(46,'Zedrick',  'Woods',       106,'DB',  36,'SO');
-insert into players values(47,'Carlos',   'Davis',       106,'DB',  23,'SR');
+insert into players values(35,'Chad',     'Kelly',       105,'QB',  10,'SR');
+insert into players values(36,'Shea',     'Patterson',   105,'QB',  20,'FR');
+insert into players values(37,'Akeem',    'Judd',        105,'RB',  21,'SR');
+insert into players values(38,'Eugene',   'Brazley',     105,'RB',  23,'JR');
+insert into players values(39,'Evan',     'engram',      105,'TE',  17,'SR');
+insert into players values(40,'Damore\'ea','Stringfellow',105,'WR', 3, 'JR');
+insert into players values(41,'Van',      'Jefferson',   105,'WR',  12,'FR');
+insert into players values(42,'Quincy',   'adeboyejo',   105,'WR',  8, 'SR');
+insert into players values(43,'AJ',       'Brown',       105,'WR',  1, 'FR');
+insert into players values(44,'Gary',     'Wunderlich',  105,'K/PK',97,'JR');
+insert into players values(45,'Will',     'Gleason',     105,'K/PK',94,'JR');
+insert into players values(46,'Zedrick',  'Woods',       105,'DB',  36,'SO');
+insert into players values(47,'Carlos',   'Davis',       105,'DB',  23,'SR');
 
 -- Mississippi state
-insert into players values(48,'Nick',   'Fitzgerald',105,'QB',  7, 'SO');
-insert into players values(49,'Damian', 'Williams',  105,'QB',  11,'JR');
-insert into players values(50,'Aeris',  'Williams',  105,'RB',  27,'SO');
-insert into players values(51,'Ashton', 'Shumpert',  105,'RB',  32,'SR');
-insert into players values(52,'Fred',   'Ross',      105,'WR',  8, 'SR');
-insert into players values(53,'Donald', 'Gray',      105,'WR',  6, 'JR');
-insert into players values(54,'Malik',  'Dear',      105,'WR',  22,'SO');
-insert into players values(55,'Keith',  'Mixon',     105,'WR',  23,'FR');
-insert into players values(56,'Jamal',  'Couch',     105,'WR',  17,'FR');
-insert into players values(57,'Westin', 'Graves',    105,'K/PK',25,'JR');
-insert into players values(58,'Logan',  'Cooke',     105,'K/PK',43,'JR');
+insert into players values(48,'Nick',   'Fitzgerald',106,'QB',  7, 'SO');
+insert into players values(49,'Damian', 'Williams',  106,'QB',  11,'JR');
+insert into players values(50,'Aeris',  'Williams',  106,'RB',  27,'SO');
+insert into players values(51,'Ashton', 'Shumpert',  106,'RB',  32,'SR');
+insert into players values(52,'Fred',   'Ross',      106,'WR',  8, 'SR');
+insert into players values(53,'Donald', 'Gray',      106,'WR',  6, 'JR');
+insert into players values(54,'Malik',  'Dear',      106,'WR',  22,'SO');
+insert into players values(55,'Keith',  'Mixon',     106,'WR',  23,'FR');
+insert into players values(56,'Jamal',  'Couch',     106,'WR',  17,'FR');
+insert into players values(57,'Westin', 'Graves',    106,'K/PK',25,'JR');
+insert into players values(58,'Logan',  'Cooke',     106,'K/PK',43,'JR');
 
 -- Texas A&M
 insert into players values(24,'Jake',     'Hubenak',    107,'QB',  10,'JR');
