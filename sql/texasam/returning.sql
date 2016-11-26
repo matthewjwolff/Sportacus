@@ -14,4 +14,4 @@ insert into preturns values (107, 56, 0, 0, 0, 0);
 insert into preturns values (107, 57, 4, 220, 73, 2);
 
 -- Texas San Antonio Roadrunners
-insert into preturns values (107, 58, )4, 51, 19, 0;
+insert into preturns values (107, 58, 4, 51, 19, 0);
