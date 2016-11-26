@@ -36,7 +36,7 @@ create table kicking (
 	g_id int,
 	total_punting_yards int,
 	total_punts int,
-	longest_punt,
+	longest_punt int,
 	longest_field_goal int,
 	FG_attempted int,
 	FG_made int,
