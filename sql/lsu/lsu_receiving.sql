@@ -64,7 +64,7 @@ INSERT INTO receiving VALUES (20,67,0,0,0,0);
 
 -- vs Florida
 INSERT INTO receiving VALUES (38,63,0,0,0,0);
-INSERT INTO receiving VALUES (38,64,2,39,33,0):
+INSERT INTO receiving VALUES (38,64,2,39,33,0);
 INSERT INTO receiving VALUES (38,65,2,46,30,0);
 INSERT INTO receiving VALUES (38,66,0,0,0,0);
 INSERT INTO receiving VALUES (38,67,2,14,7,0);
