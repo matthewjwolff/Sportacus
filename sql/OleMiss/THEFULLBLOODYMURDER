@@ -29,7 +29,7 @@ insert into passing  values(42, 34, 24, 18, 282, 0, 55, 2);
 insert into receiving  values(42, 39, 6, 95, 37, 1);
 INSERT INTO offense   VALUES(105, 42, 23, 2, 9, 0, 0, 180, 330, 1, '24:12', 1, 6);
 
---vs Memphis
+-- vs Memphis
 insert into rushing  values(43, 37, 15, 108, 53, 0);
 insert into passing  values(43, 34, 44, 30, 361, 1, 39, 1);
 insert into receiving  values(43, 40, 6, 94, 29, 0);
@@ -72,8 +72,8 @@ Insert into returning  values(105, 41, 35, 22, 0);
 Insert into defense values(105, 41, 1, 0, 0, 2, 2, 0, 492, 6, '35:23');
 
 -- vs Georgia
-Insert into kicking values(44, 44, 49, 1, 49, 24, 2, 1, 6, 6, null);
-Insert into kicking values(45, 44, 139, 3, 60, null, null, null, null, null, null);
+Insert into kicking values(44, 42, 49, 1, 49, 24, 2, 1, 6, 6, null);
+Insert into kicking values(45, 42, 139, 3, 60, null, null, null, null, null, null);
 Insert into returning  values(105, 42, 3, 27, 20, 0);
 Insert into defense values(105, 42, 3, 1, 0, 2, 1, 0, 0, 396, 2, '35:48');
 
@@ -85,12 +85,12 @@ Insert into defense values(105, 43, 2, 3, 1, 1, 1, 0, 0, 474, 4, '27:47');
 
 -- vs Arkansas
 Insert into kicking values(44, 44, 78, 2, 78, 33, 1, 1, 4, 3, null);
-Insert into kicking values(45, 83, 2, 47, null, null, null, null, null, null, null);
+Insert into kicking values(45, 44, 2, 47, null, null, null, null, null, null, null);
 Insert into returning  values(105, 44, 5, 87, 39, 0);
 Insert into defense values(105, 44, 3, 1, 0, 1, 1, 0, 0, 429, 4, '40:38');
 
 -- vs LSU
-Insert into kicking values(44, 105, null, null, null, 46, 2, 2, 1, 1, null);
-Insert into kicking values(45, 105, 358, 8, 53, null, null, null, null, null, null, );
+Insert into kicking values(44, 45, null, null, null, 46, 2, 2, 1, 1, null);
+Insert into kicking values(45, 45, 358, 8, 53, null, null, null, null, null, null);
 Insert into returning  values(105, 45, 8, 16, 8, 0);
 Insert into defense values(105, 45, 2, 1, 0, 2, 2, 0, 0, 515, 5, '32:13');
