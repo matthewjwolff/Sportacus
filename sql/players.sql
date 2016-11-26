@@ -59,7 +59,7 @@ insert into players ("p_id","f_name","l_name","t_id","position","number","class"
 insert into players ("p_id","f_name","l_name","t_id","position","number","class") values("66","Jazz",   "Ferguson",   "104","WR",  "86","SO");
 insert into players ("p_id","f_name","l_name","t_id","position","number","class") values("67","Dee",    "Anderson",   "104","WR",  "11","FR");
 insert into players ("p_id","f_name","l_name","t_id","position","number","class") values("68","Colby", "Delahoussaye","104","K/PK","42","SR");
-insert into players ("p_id","f_name","l_name","t_id","position","number","class") values("69","Jack",  "Gonsoulin ",  "104","K/PK","35","FR");
+insert into players ("p_id","f_name","l_name","t_id","position","number","class") values("69","Josh",  "Growden",     "104","K/PK","38","FR");
 
 --Mississippi state
 insert into players ("p_id","f_name","l_name","t_id","position","number","class") values("48","Nick",   "Fitzgerald","105","QB",  "7", "SO");
