@@ -1,12 +1,12 @@
-insert into Returning ("t_id","g_id","total_returns","total_return_yards","longest_return","touchdowns") values(102, 12, 2, 42, 25, 0);
+insert into returning ("t_id","g_id","total_returns","total_return_yards","longest_return","touchdowns") values(102, 12, 2, 42, 25, 0);
 
 
-insert into Kicking ("p_id","g_id","total_punting_yards","total_punts","longest_punt","longest_field_goal","FG_attempted","PAT_made","total_touchbacks") values(10, 12, 190, 4, 55, 0, 0, 0, 0, 0, 0);
+insert into kicking ("p_id","g_id","total_punting_yards","total_punts","longest_punt","longest_field_goal","FG_attempted","PAT_made","total_touchbacks") values(10, 12, 190, 4, 55, 0, 0, 0, 0, 0, 0);
 
-insert into Kicking ("p_id","g_id","total_punting_yards","total_punts","longest_punt","longest_field_goal","FG_attempted","PAT_made","total_touchbacks") values(12, 12, 0, 0, 0, 0, 0, 0, 3, 3, 0);
+insert into kicking ("p_id","g_id","total_punting_yards","total_punts","longest_punt","longest_field_goal","FG_attempted","PAT_made","total_touchbacks") values(12, 12, 0, 0, 0, 0, 0, 0, 3, 3, 0);
 
 
-insert into Defense ("t_id","g_id","sacks","interceptions","pick_6s","fumbles_forced","fumbles_into_tds","safeties","yards_allowed","tds_allowed","time_on_field") values(102, 12, 3, 1, 0, 1, 0, 0, 291, 2, 23:19);
+insert into defense ("t_id","g_id","sacks","interceptions","pick_6s","fumbles_forced","fumbles_into_tds","safeties","yards_allowed","tds_allowed","time_on_field") values(102, 12, 3, 1, 0, 1, 0, 0, 291, 2, 23:19);
 
 
 insert into rushing ("g_id","p_id","attempts","yards","longest_rush","TDs") values(12, 8, 24, 96, 14, 1);
