@@ -6,7 +6,7 @@ insert into kicking values(10, 15, 118, 3, 46, 0, 0, 0, 0, 0, 0);
 insert into kicking values(12, 15, 0, 0, 0, 25, 1, 1, 3, 3, 0);
 
 
-insert into defense values(102, 15, 1, 0, 0, 1, 0, 0, 591, 6, 2);
+insert into defense values(102, 15, 1, 0, 0, 1, 0, 0, 591, 6, '20:55');
 
 
 insert into rushing values(15, 8, 17, 79, 55, 1);
