@@ -69,7 +69,7 @@ insert into players values(36,'Shea',     'Patterson',   105,'QB',  20,'FR');
 insert into players values(37,'Akeem',    'Judd',        105,'RB',  21,'SR');
 insert into players values(38,'Eugene',   'Brazley',     105,'RB',  23,'JR');
 insert into players values(39,'Evan',     'engram',      105,'TE',  17,'SR');
-insert into players values(40,'Damore\'ea','Stringfellow',105,'WR', 3, 'JR');
+insert into players values(40,'Damore''ea','Stringfellow',105,'WR', 3, 'JR');
 insert into players values(41,'Van',      'Jefferson',   105,'WR',  12,'FR');
 insert into players values(42,'Quincy',   'adeboyejo',   105,'WR',  8, 'SR');
 insert into players values(43,'AJ',       'Brown',       105,'WR',  1, 'FR');
