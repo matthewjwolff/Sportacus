@@ -2,40 +2,40 @@
 
 -- vs Wisconsin
 INSERT INTO defense (t_id, g_id, sacks, interceptions, pick_6s, fumbles_forced, fumbles_into_tds, safeties, yards_allowed, tds_allowed, time_on_field)
-VALUES (109,32,2,3,1,1,0,0,339,'36:57',1);
+VALUES (109,32,2,3,1,1,0,0,339,1,'36:57');
 
 -- vs Jacksonville St.
 INSERT INTO defense (t_id, g_id, sacks, interceptions, pick_6s, fumbles_forced, fumbles_into_tds, safeties, yards_allowed, tds_allowed, time_on_field)
-VALUES (109,33,3,1,0,0,0,0,368,'33:09',1);
+VALUES (109,33,3,1,0,0,0,0,368,1,'33:09');
 
 -- vs Miss. St.
 INSERT INTO defense (t_id, g_id, sacks, interceptions, pick_6s, fumbles_forced, fumbles_into_tds, safeties, yards_allowed, tds_allowed, time_on_field)
-VALUES (106,34,6,0,0,2,0,0,270,'27:16',2);
+VALUES (106,34,6,0,0,2,0,0,270,2,'27:16');
 
 -- vs Auburn
 INSERT INTO defense (t_id, g_id, sacks, interceptions, pick_6s, fumbles_forced, fumbles_into_tds, safeties, yards_allowed, tds_allowed, time_on_field)
-VALUES (103,25,3,0,0,2,0,0,288,'32:11',0);
+VALUES (103,25,3,0,0,2,0,0,288,0,'32:11');
 
 -- vs Missouri
 INSERT INTO defense (t_id, g_id, sacks, interceptions, pick_6s, fumbles_forced, fumbles_into_tds, safeties, yards_allowed, tds_allowed, time_on_field)
-VALUES (108,35,2,1,0,0,0,0,265,'17:27',1);
+VALUES (108,35,2,1,0,0,0,0,265,1,'17:27');
 
 -- vs Southern Miss
 INSERT INTO defense (t_id, g_id, sacks, interceptions, pick_6s, fumbles_forced, fumbles_into_tds, safeties, yards_allowed, tds_allowed, time_on_field)
-VALUES (109,36,2,0,0,3,0,0,242,'37:59',1);
+VALUES (109,36,2,0,0,3,0,0,242,1,'37:59');
 
 -- vs Ole Miss
 INSERT INTO defense (t_id, g_id, sacks, interceptions, pick_6s, fumbles_forced, fumbles_into_tds, safeties, yards_allowed, tds_allowed, time_on_field)
-VALUES (105,37,2,2,0,0,0,0,325,'27:47',2);
+VALUES (105,37,2,2,0,0,0,0,325,2,'27:47');
 
 -- vs Alabama
 INSERT INTO defense (t_id, g_id, sacks, interceptions, pick_6s, fumbles_forced, fumbles_into_tds, safeties, yards_allowed, tds_allowed, time_on_field)
-VALUES (101,9,1,1,0,2,0,0,323,'33:55',1);
+VALUES (101,9,1,1,0,2,0,0,323,1,'33:55');
 
 -- vs Arkansas
 INSERT INTO defense (t_id, g_id, sacks, interceptions, pick_6s, fumbles_forced, fumbles_into_tds, safeties, yards_allowed, tds_allowed, time_on_field)
-VALUES (102,20,3,2,0,1,0,0,291,'24:49',1);
+VALUES (102,20,3,2,0,1,0,0,291,1,'24:49');
 
 -- vs Florida
 INSERT INTO defense (t_id, g_id, sacks, interceptions, pick_6s, fumbles_forced, fumbles_into_tds, safeties, yards_allowed, tds_allowed, time_on_field)
-VALUES (108,38,2,0,0,1,0,0,270,'25:58',1);
+VALUES (108,38,2,0,0,1,0,0,270,1,'25:58');
