@@ -4,10 +4,20 @@ Sportacus
 
 Sports-themed database project for CSC 4402 with Dr. Jianhua Chen
 
-Organization
-------------
+Project Structure
+-----------------
 
-Check the issues panel for assignment of tasks.
+The ``doc`` folder contains all documentation about the project. Namely it 
+contains the PowerPoint presentation used for the in-class presentation and 
+the project report. 
+
+The ``sql`` folder contains the source code for the project. It contains 
+``.sql`` scripts for generating the database and performing some sample 
+queries upon it. There is also a shell script that automates this process for 
+the PostgreSQL and MySQL DBMSs.
+
+The ``etc`` folder contains extraneous files used for project maintenance. 
+These files need not be examined.
 
 Project Members
 ---------------
@@ -29,5 +39,3 @@ License
 This project is licenesed under the GNU GPL v3 or later. The project can be
 copied and relicensed by any of the individual members if there is need or
 interest.
-
-"I committed my life to the project." - Nobody Ever
